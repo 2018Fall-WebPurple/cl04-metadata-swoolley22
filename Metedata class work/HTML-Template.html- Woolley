@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!-- Sarah Woolley -->
+<!-- Due Date -->
+<!-- Project Name and description -->
+
+
+<html>
+
+<head>
+    <link rel="stylesheet" href="filename.css"> <--link to CSS -->
+    <!--metadata -->
+    <meta charset="utf-8">
+    >meta name="descripyion" content="Put a detailed description here">
+    <meta name="keywords" content="Put in keywords seperated by commas here">
+    <title>Title shows up in the browser tab</title>
+    <link rel="shortcut icon" href= "favcon.ico"> <!--favicon-->
+</head>
+
+<body>
+    <table border="black">
+        <tr>
+            <th colspan="3">HTML Super Heroes</th>
+        </tr>
+    
+    
+    
+    
+    
+    
+    </table>
